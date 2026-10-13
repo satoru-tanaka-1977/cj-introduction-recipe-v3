@@ -8,7 +8,7 @@ body {
   color: #2b2a27;
   font-size: 1rem;
   font-family: "Helvetica Neue", "Arial", "Hiragino Sans", "Meiryo", sans-serif;
-  line-height: 1.6;
+  /* line-height: 1.6; */
 }
 
 a {
@@ -89,10 +89,10 @@ ul {
 /* レスポンシブ */
 
 @media screen and (max-width: 834px) {
-    .list {
-        flex-direction: column;
-    }
-    .list li {
-        width: 100%;
-    }
+  .list {
+    flex-direction: column;
+  }
+  .list li {
+    width: 100%;
+  }
 }

@@ -34,4 +34,4 @@ https://satoru-tanaka-1977.github.io/cj-introduction-recipe-v3/
 
 ## 制作状況
 
-制作中（3周目 / 2026.10.10~）
+完成（3周目 / 2026.10.10~10.13）
